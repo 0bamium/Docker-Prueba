@@ -1,5 +1,7 @@
 # Docker-Prueba
 
+Este trabajo fue realizado entre Vicente Bravo y José Méndez
+
 ### Descripcion del trabajo
 
 Crear un proyecto Docker con dos servicios (web + base de datos) que funcionen juntos. La web debe

@@ -1,7 +1,7 @@
 # Docker-Prueba
-```
-Este trabajo fue realizado entre Vicente Bravo y José Méndez.
-```
+
+Este trabajo fue realizado entre `Vicente Bravo` y `José Méndez`.
+
 
 ### Descripcion del trabajo
 

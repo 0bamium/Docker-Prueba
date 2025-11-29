@@ -28,7 +28,7 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ### contenedores detenidos y activos
 
-![]()
+![](https://github.com/0bamium/Docker-Prueba/blob/f66209a6095530740611ab4555f47f35bc5c8629/imagenes/ver-todos-los-contenedores.jpeg)
 
 ### logs
 

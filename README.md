@@ -23,20 +23,29 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ### contenedores corriendo
 
+![](https://github.com/0bamium/Docker-Prueba/blob/c07dd1b909a11996f5ffe0db0a9576b53ea94d35/imagenes/ver-contenedores-activos.jpeg)
+
 
 ### contenedores detenidos y activos
 
+![]()
 
 ### logs
 
+![]()
 
 ### healthchecks
 
+![]()
 
 ### web funcionando
 
+![]()
 
 ### tabla log
 
+![]()
 
 ### Imagenes docker
+
+![]()

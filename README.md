@@ -1,6 +1,7 @@
 # Docker-Prueba
-
-Este trabajo fue realizado entre Vicente Bravo y José Méndez
+```
+Este trabajo fue realizado entre Vicente Bravo y José Méndez.
+```
 
 ### Descripcion del trabajo
 
@@ -13,6 +14,11 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 
 ### Estructura del proyecto
+
+
+### levantamiento del servicio
+
+![](0bamium/Docker-Prueba/imagenes/docker-compose-up.jpeg)
 
 
 ### contenedores corriendo

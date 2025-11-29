@@ -48,4 +48,4 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ### Imagenes docker
 
-![]()
+![](https://github.com/0bamium/Docker-Prueba/blob/9d110b074859ee4cd13bf027d3d8df5e0e3cedc3/imagenes/ver-imagenes.jpeg)

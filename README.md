@@ -15,6 +15,7 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ### Estructura del proyecto
 
+![](https://github.com/0bamium/Docker-Prueba/blob/bd2f582cac0a2b87e1f1bd33af1489e64a84ccdb/imagenes/estructura-del-proyecto.jpeg)
 
 ### levantamiento del servicio
 

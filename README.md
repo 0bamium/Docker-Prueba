@@ -41,7 +41,7 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ### web funcionando
 
-![]()
+![](https://github.com/0bamium/Docker-Prueba/blob/1c8383075b4172c847ed97387d7183b8a1c0a74f/imagenes/pagina-web.jpeg)
 
 ### tabla log
 

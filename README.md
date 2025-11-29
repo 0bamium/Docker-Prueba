@@ -18,7 +18,7 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ### levantamiento del servicio
 
-![](0bamium/Docker-Prueba/imagenes/docker-compose-up.jpeg)](https://github.com/0bamium/Docker-Prueba/blob/e6ccf664c6cb23b4b48bdbae74ec888d17120892/imagenes/docker-compose-up.jpeg)
+![](https://github.com/0bamium/Docker-Prueba/blob/e6ccf664c6cb23b4b48bdbae74ec888d17120892/imagenes/docker-compose-up.jpeg)
 
 
 ### contenedores corriendo

@@ -10,6 +10,9 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 ## CAPTURAS
 
 
+### Estructura del proyecto
+
+
 ### contenedores corriendo
 
 
@@ -26,3 +29,6 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 
 ### tabla log
+
+
+### Imagenes docker

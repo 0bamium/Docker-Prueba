@@ -46,6 +46,10 @@ incluir: hora, actividad, estado e imagen (visible en cada fila).
 
 ![]()
 
+### Volumenes
+
+![](https://github.com/0bamium/Docker-Prueba/blob/9165929c85c72bd0d15275118be704fcce839078/imagenes/ver-volumenes.jpeg)
+
 ### Imagenes docker
 
 ![](https://github.com/0bamium/Docker-Prueba/blob/9d110b074859ee4cd13bf027d3d8df5e0e3cedc3/imagenes/ver-imagenes.jpeg)
